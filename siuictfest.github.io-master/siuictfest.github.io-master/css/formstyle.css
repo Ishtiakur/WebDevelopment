@@ -1,0 +1,169 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+
+body{
+  background: url("../images/formbg.jpg") no-repeat;
+}
+
+.edit-text,
+.sub-btn{
+  font: 400 12px/16px "Roboto", Helvetica, Arial, sans-serif;
+}
+
+
+.contact {
+  background: #F9F9F9;
+  padding: 25px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.contact h3 {
+  text-align: center;
+  padding: 0px;
+  display: block;
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.edit-text{
+  width: 100%;
+  border: 1px solid #ccc;
+  background: #FFF;
+  margin: 0 0 5px;
+  padding: 10px;
+}
+
+
+
+.edit-text:hover {
+  -webkit-transition: border-color 0.3s ease-in-out;
+  -moz-transition: border-color 0.3s ease-in-out;
+  transition: border-color 0.3s ease-in-out;
+  border: 1px solid #aaa;
+}
+
+.edit-text textarea {
+  height: 100px;
+  max-width: 100%;
+  resize: none;
+}
+
+.sub-btn{
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  background: #4CAF50;
+  color: #FFF;
+  margin: 0 0 5px;
+  padding: 10px;
+  font-size: 15px;
+}
+
+.sub-btn:hover {
+  background: #43A047;
+  -webkit-transition: background 0.3s ease-in-out;
+  -moz-transition: background 0.3s ease-in-out;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.sub-btn:active {
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+
+.edit-text:focus {
+  outline: 0;
+  border: 1px solid #aaa;
+}
+
+::-webkit-input-placeholder {
+  color: #888;
+}
+
+:-moz-placeholder {
+  color: #888;
+}
+
+::-moz-placeholder {
+  color: #888;
+}
+
+:-ms-input-placeholder {
+  color: #888;
+}
+
+
+.reg-fields{
+  margin: auto;
+  width: 100%;
+  border: 1px green solid;
+}
+
+.member{
+  padding: 10px 5px;
+}
+
+
+.inLine{
+  display: inline-block;
+}
+
+
+.hLine{
+  height: 1px;
+  background: green;
+}
+.contact p{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.inLine2{
+  display: inline-block;
+  width: 88px;
+}
+
+.notinline{
+  display: inline-block;
+  width: calc(100% - 100px);
+}
+
+
+.footer {
+    background-color: #00998E;
+    color: #fff;
+    padding: 20px 0px;
+}
+
+.footer text-center {
+    text-align: center;
+}
+
+.reg-head h1{
+  background: #f9f9f9;
+}
+
+
+
+.alert {
+    text-align: center;
+    padding: 10px;
+    background: #79c879;
+    color: #fff;
+    margin-bottom: 10px;
+    display: none;
+}

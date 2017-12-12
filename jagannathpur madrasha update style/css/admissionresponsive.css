@@ -1,0 +1,520 @@
+
+/* responsive css  maximum width 960px */
+				
+.admission_mainmenu{
+	margin-bottom:-32%
+			
+		}
+		.admission_mainmenu ul{
+				margin-bottom:1px solid #dadada
+		}
+		.admission_mainmenu ul li{
+			
+			
+		}
+		.admission_mainmenu ul li a{
+			
+		}
+		#menu{
+			box-shadow: none
+		}
+		#menu li{
+			border-bottom: 1px solid #ededed;
+		
+			
+		}
+		#menu a{
+			padding: 7px 11px;
+		}
+		
+		
+		
+		#marquee{
+			display:none
+		}
+		
+		
+body{
+	position:absolute;
+}
+		.header{
+			width:127%;
+		}
+		
+		.logo_site{
+			width:13%	
+		}
+		#bismillah{
+			height:28px;
+			margin-top:3px;
+		}
+		#name{
+			font-size:20px
+		}
+		#logo{
+			width:98px;
+			height:95px;
+			margin-left:0px;
+		
+		}
+		#address{
+			font-size:84%;
+		}
+		.header_right{
+			width:83%;
+			font-size:124%
+		}
+		#right_content{
+			margin-right:0%;
+			font-size:80%
+			
+		}
+		.main_body{
+			width:124%;
+			margin-left:0;
+			
+		}
+		.slider{
+			margin-bottom:11px
+		}
+		
+		
+		
+		
+		.sidebar{
+			display:none
+		}
+		.admission_maincontent{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%;
+				margin-top:24%;
+				line-height:28px;
+		}
+		.admission_content{
+			
+		}
+		.footer{
+			width:124%
+		}
+
+		
+/* responsive css  maximum width 768px */
+
+@media only screen and (max-width: 768px) {
+		
+.admission_mainmenu{
+	margin-bottom:-32%
+			
+		}
+		.admission_mainmenu ul{
+				margin-bottom:1px solid #dadada
+		}
+		.admission_mainmenu ul li{
+			
+			
+		}
+		.admission_mainmenu ul li a{
+			
+		}
+		#menu{
+			box-shadow: none
+		}
+		#menu li{
+			border-bottom: 1px solid #ededed;
+		
+			
+		}
+		#menu a{
+			padding: 7px 11px;
+		}
+		
+		
+		
+		#marquee{
+			display:none
+		}
+		
+		
+body{
+	position:absolute;
+}
+		.header{
+			width:102%;
+		}
+		img {
+			width:auto
+		}
+		.logo_site{
+			width:13%	
+		}
+		#bismillah{
+			height:28px;
+			margin-top:3px;
+		}
+		#name{
+			font-size:20px
+		}
+		#logo{
+			width:98px;
+			height:95px;
+			margin-left:0px;
+		
+		}
+		#address{
+			font-size:84%;
+		}
+		.header_right{
+			width:83%;
+			font-size:124%
+		}
+		#right_content{
+			margin-right:0%;
+			font-size:80%
+			
+		}
+		.main_body{
+			width:99%;
+			margin-left:0;
+			
+		}
+		.slider{
+			margin-bottom:11px
+		}
+		
+		
+		
+		
+		.sidebar{
+			display:none
+		}
+		.admission_maincontent{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%;
+				margin-top:20%;
+				line-height:28px;
+		}
+		.admission_content{
+			
+		}
+		.footer{
+			width:99%
+		}	
+		
+}	
+
+
+
+@media only screen and (max-width: 660px) {
+	
+		.admission_mainmenu{
+	margin-bottom:-32%
+			
+		}
+		.admission_mainmenu ul{
+				margin-bottom:1px solid #dadada
+		}
+		.admission_mainmenu ul li{
+			
+			
+		}
+		.admission_mainmenu ul li a{
+			
+		}
+		#menu{
+			box-shadow: none
+		}
+		#menu li{
+			border-bottom: 1px solid #ededed;
+		
+			
+		}
+		#menu a{
+			padding: 7px 11px;
+		}
+		
+		
+		
+		#marquee{
+			display:none
+		}
+		
+		
+body{
+	position:absolute;
+}
+		.header{
+			width:100%;
+		}
+		img {
+			width:auto
+		}
+		.logo_site{
+			width:16%	
+		}
+		#bismillah{
+			height:18px;
+			margin-top:3px
+		}
+		#name{
+			font-size:17px
+		}
+		#logo{
+			width:72px;
+			height:73px;
+			margin-left:0px;
+		
+		}
+		#address{
+			font-size:84%;
+		}
+		.header_right{
+			width:80%;
+			font-size:96%
+		}
+		#right_content{
+			margin-right:0%;
+			font-size:105%;
+			line-height:37px
+			
+		}
+		.main_body{
+			width:98%;
+			margin-left:0;
+			
+		}
+		.slider{
+			margin-bottom:11px
+		}
+		
+		
+		
+		
+		.sidebar{
+			display:none
+		}
+		.admission_maincontent{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%;
+				margin-top:25%;
+				line-height:28px;
+		}
+		.admission_content{
+			
+		}
+		.footer{
+			width:97%
+		}	
+		
+
+
+
+}
+
+
+@media only screen and (max-width: 320px) {
+		
+		
+		.mainmenu{
+		}
+		
+		#marquee{
+			display:none
+		}
+		
+		
+body{
+	position:absolute;
+}
+		.header{
+			width:100%;
+		}
+		img {
+			
+			
+		}
+		.logo_site{
+			width:10%	
+		}
+		#bismillah{
+			height:18px;
+			margin-top:4px
+		}
+		#name{
+			font-size:14px
+		}
+		#logo{
+			width:50px;
+			height:50px;
+		
+		}
+		#address{
+			font-size:84%;
+		}
+		.header_right{
+			width:80%;
+			font-size:72%
+		}
+		#right_content{
+			margin-right:0%
+		}
+		.main_body{
+			width:95%;
+			
+		}
+		.slider{
+			margin-bottom:11px
+		}
+		
+		
+		
+		
+		.sidebar{
+			display:none
+		}
+		.content{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%
+		}
+		.footer{
+			width:100%
+		}
+		
+}
+
+
+
+@media only screen and (max-width: 360px) {
+		
+		.admission_mainmenu{
+			
+		}
+		.admission_mainmenu ul{
+				margin-bottom:1px solid #dadada
+		}
+		.admission_mainmenu ul li{
+			
+			
+		}
+		.admission_mainmenu ul li a{
+			
+		}
+		#menu{
+			box-shadow: none
+		}
+		#menu li{
+			border-bottom: 1px solid #ededed;
+		
+			
+		}
+		#menu a{
+			padding: 5px 6px;
+		}
+		
+		
+		
+		#marquee{
+			display:none
+		}
+		
+		
+body{
+	position:absolute;
+}
+		.header{
+			width:100%;
+		}
+		img {
+			width:auto
+		}
+		.logo_site{
+			width:16%	
+		}
+		#bismillah{
+			height:18px;
+			margin-top:4px
+		}
+		#name{
+			font-size:14px
+		}
+		#logo{
+			width:77%;
+			height:97%;
+		
+		}
+		#address{
+			font-size:84%;
+		}
+		.header_right{
+			width:84%;
+			font-size:72%
+		}
+		#right_content{
+			margin-right:0%
+		}
+		.main_body{
+			width:94.5%;
+			
+		}
+		.slider{
+			margin-bottom:11px
+		}
+		
+		
+		
+		
+		.sidebar{
+			display:none
+		}
+		.admission_maincontent{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%;
+				margin-top:20%
+		}
+		.admission_content{
+			
+		}
+		.footer{
+			width:96%;
+			font-size:16px
+		}	
+		#leftside{
+			float: none;
+    font-size: 14px;
+    line-height: 26px;
+    margin-left: 6px;
+		}
+		#leftleft{
+			float: none;
+			font-size: 14px;
+			text-align: center;
+		}
+		#logofooter{
+		float: none;
+		margin-left: 0;
+		margin-top: 20px;
+		padding: 0;
+		}
+		.logofooter{
+			 height: 129px;
+			margin-left: 18%;
+			margin-top: 0;
+		}
+		#rightside{
+			   float: none;
+    font-size: 15px;
+    line-height: 26px;
+    margin-top: -4px;
+		}
+		.developer{
+			text-align: center;
+			font-size:15px
+		}
+
+
+
+}

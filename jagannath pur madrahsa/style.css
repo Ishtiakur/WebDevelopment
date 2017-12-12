@@ -1,0 +1,279 @@
+*{margin:0;padding:0}
+
+body{background:url(images/bg.jpg) repeat fixed #ddd;
+font-family:Arial;
+font-size:16px;
+line-height:22px;
+}
+
+.fix {overflow:hidden}
+
+.main_body{width:960px;margin:45px auto;display:block;background:#fff;}
+
+.header{}
+
+.logo_site{float: left;
+margin-right: 18px;
+}
+
+.header_right{
+	line-height: 34px;
+	text-align: center;
+	font-size:25px
+}
+
+#bismillah{
+	height: 29px;
+    margin-top: 7px;
+    text-align: center;
+}
+#name{
+	font-size: 25px;
+    font-weight: bold;	
+}
+
+#address{
+	font-size: 16px;
+    font-weight: normal;
+}
+
+
+.slider {width:960px;margin-bottom:25px;}
+
+.slider_text {color: #FFFFFF;
+background:#013651
+line-height: 35px;
+margin-left: 221px;
+margin-top: 63px;
+}
+
+
+#menu, #menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#menu {
+    width: 960px;
+    margin: 8px auto 28px;
+    border: 1px solid #222;
+    background-color: #111;
+    background-image: linear-gradient(#444, #111);
+    border-radius: 6px;
+    box-shadow: 0 1px 1px #777;
+	
+}
+
+#menu:before,
+#menu:after {
+    content: "";
+    display: table;
+}
+
+#menu:after {
+    clear: both;
+}
+
+#menu {
+    zoom:1;
+}
+
+#menu li {
+    float: left;
+    border-right: 1px solid #222;
+    box-shadow: 1px 0 0 #444;
+    position: relative;
+}
+
+#menu a {
+    float: left;
+    padding: 12px 30px;
+    color: #999;
+    text-transform: uppercase;
+    font: bold 12px Arial, Helvetica;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #000;
+}
+
+#menu li:hover > a {
+    color: #fafafa;
+}
+
+*html #menu li a:hover { /* IE6 only */
+    color: #fafafa;
+}
+
+#menu ul {
+    margin: 20px 0 0 0;
+    _margin: 0; /*IE6 only*/
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    top: 38px;
+    left: 0;
+    z-index: 1;    
+    background: #444;   
+    background: linear-gradient(#444, #111);
+    box-shadow: 0 -1px 0 rgba(255,255,255,.3);  
+    border-radius: 3px;
+    transition: all .2s ease-in-out;
+}
+
+#menu li:hover > ul {
+    opacity: 1;
+    visibility: visible;
+    margin: 0;
+}
+
+#menu ul ul {
+    top: 0;
+    left: 150px;
+    margin: 0 0 0 20px;
+    _margin: 0; /*IE6 only*/
+    box-shadow: -1px 0 0 rgba(255,255,255,.3);      
+}
+
+#menu ul li {
+    float: none;
+    display: block;
+    border: 0;
+    _line-height: 0; /*IE6 only*/
+    box-shadow: 0 1px 0 #111, 0 2px 0 #666;
+}
+
+.mainmenu{margin-top: -99px;width:960px}
+
+.mainmenu ul{margin:0;padding:0;list-style:none}
+
+.mainmenu ul li{float:left;
+	border-left:1px solid #ababab;
+	border-right:1px solid #777373;
+	border-bottom:1px solid #ddd
+}
+
+.mainmenu li:last-child{border-right:0px solid}
+
+.mainmenu li :hover{background:#000}
+
+.mainmenu ul li a{text-decoration:none;
+display:blockcolor:#666;
+padding:15px
+}
+
+#donate{background:#0F8D68}
+#donate a{color:#FFF}
+
+.mainmenu ul li a:hover{color:#000}
+
+.maincontent{line-height:26px}
+
+.sidebar{float: left;margin-left:5px;
+width: 200px;
+margin-right: 23px;
+text-align: center;background:#021A26
+ }
+
+.sidebar ul {margin:0;padding:0;list-style:none;}
+
+.sidebar ul li{padding:5px;border-bottom:1px solid #ddd;}
+
+.sidebar ul li:hover{background:#ddd}
+
+.sidebar ul li a{text-decoration:none;color:#666;}
+
+.sidebar ul li a:hover{color:#000;font-weight:bolder;}
+
+
+.content {width:600px;
+	padding-right:30px
+}
+
+
+.content h2{margin-bottom:15px;
+	font-weight:normal
+	}
+	
+	
+.content p {
+margin-bottom:15px
+}
+
+.footer {padding:10px;text-align:center;
+	background:#BBBBBB;
+	margin-top: 13px;
+}
+
+
+/*__________________________________________________admission.html______________________________________     */
+
+.admission_mainmenu{}
+
+.admission_mainmenu{margin-top: -7px;width:960px;height:129px;margin-bottom:-54px}
+.admission_mainmenu ul{margin:0;padding:0;list-style:none}
+.admission_mainmenu ul li{float:left;border-left:1px solid #ababab;border-right:1px solid #777373;border-bottom:1px solid #ddd}
+.admission_mainmenu li:last-child{border-right:0px solid}
+.admission_mainmenu li :hover{background:#000}
+.admission_mainmenu ul li a{text-decoration:none;display:blockcolor:#666;padding:15px}
+.admission_mainmenu ul li a:hover{color:#000}
+
+.admission_maincontent{line-height:33px}
+.admission_content{padding-left:29px}
+
+
+
+
+
+
+/*__________________________________________________gallery.html______________________________________     */
+
+
+.gallery_mainmenu{}
+
+.admission_mainmenu{margin-top: -7px;width:960px;height:129px;margin-bottom:-54px}
+.gallery_mainmenu ul{margin:0;padding:0;list-style:none}
+.gallery_mainmenu ul li{float:left;border-left:1px solid #ababab;border-right:1px solid #777373;border-bottom:1px solid #ddd}
+.gallery_mainmenu li:last-child{border-right:0px solid}
+.gallery_mainmenu li :hover{background:#000}
+.gallery_mainmenu ul li a{text-decoration:none;display:blockcolor:#666;padding:15px}
+.gallery_mainmenu ul li a:hover{color:#000}
+
+.gallery_maincontent{}
+.gallery_content{}
+
+
+#photo{
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------contact.html--------------------------------------------------------*/
+
+.contact_content{line-height:30px}
+
+

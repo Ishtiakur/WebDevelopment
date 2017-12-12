@@ -1,0 +1,463 @@
+/* maximum width 960px responsive css for gallery.html */
+.gallery_mainmenu{
+		}
+		.gallery_mainmenu ul{}
+		.gallery_mainmenu ul li{
+			border-bottom: 1px solid #dadada;
+			border-left: 1px solid #45b989;
+			border-right: 1px solid #133728;
+			float: left;
+			padding: 3px 0;
+			
+			
+		}
+		#menu a{
+			padding:7px 10px 
+		}
+		
+		.admission_mainmenu{}
+		
+		#marquee{
+			display:none
+		}
+		
+		
+body{
+	position:absolute;
+}
+		.header{
+			width:100%;
+		}
+	
+		.logo_site{
+			width:21%	
+		}
+		#bismillah{
+			height:18px;
+			margin-top:4px
+		}
+		#name{
+			font-size:19px
+		}
+		#logo{
+			height: 67px;
+    margin-left: 0;
+    text-align: center;
+    width: 93px;
+				
+		}
+		#address{
+			font-size:84%;
+		}
+		.header_right{
+			width:59%;
+			font-size:72%
+		}
+		#right_content{
+			margin-right:0%;
+			font-size:19px
+		}
+		.main_body{
+			width:95%;
+			
+		}
+		
+		.gallery_maincontent{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%
+		}
+		.gallery_content{}
+		.footer{
+			width:100%
+		}
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+	
+	.gallery_mainmenu{
+		}
+		.gallery_mainmenu ul{}
+		.gallery_mainmenu ul li{
+			border-bottom: 1px solid #dadada;
+			border-left: 1px solid #45b989;
+			border-right: 1px solid #133728;
+			float: left;
+			padding: 3px 0;
+			
+			
+		}
+		#menu a{
+			padding:7px 10px 
+		}
+		
+		.admission_mainmenu{}
+		
+		#marquee{
+			display:none
+		}
+		
+		
+body{
+	position:absolute;
+}
+		.header{
+			width:100%;
+		}
+	
+		.logo_site{
+			width:21%	
+		}
+		#bismillah{
+			height:18px;
+			margin-top:4px
+		}
+		#name{
+			font-size:19px
+		}
+		#logo{
+			height: 67px;
+    margin-left: 0;
+    text-align: center;
+    width: 93px;
+				
+		}
+		#address{
+			font-size:84%;
+		}
+		.header_right{
+			width:59%;
+			font-size:72%
+		}
+		#right_content{
+			margin-right:0%;
+			font-size:19px
+		}
+		.main_body{
+			width:95%;
+			
+		}
+		
+		.gallery_maincontent{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%
+		}
+		.gallery_content{}
+		.footer{
+			width:100%
+		}
+
+}
+
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+	
+	.gallery_mainmenu{
+		}
+		.gallery_mainmenu ul{}
+		.gallery_mainmenu ul li{
+			border-bottom: 1px solid #dadada;
+			border-left: 1px solid #45b989;
+			border-right: 1px solid #133728;
+			float: left;
+			padding: 3px 0;
+			
+			
+		}
+		#menu a{
+			padding:7px 10px 
+		}
+		
+		.admission_mainmenu{}
+		
+		
+body{
+	position:absolute;
+}
+		.header{
+			width:100%;
+		}
+	
+		.logo_site{
+			width:21%	
+		}
+		#bismillah{
+			height:18px;
+			margin-top:4px
+		}
+		#name{
+			font-size:19px
+		}
+		#logo{
+			height: 67px;
+    margin-left: 0;
+    text-align: center;
+    width: 93px;
+				
+		}
+		#address{
+			font-size:84%;
+		}
+		.header_right{
+			width:59%;
+			font-size:72%
+		}
+		#right_content{
+			margin-right:0%;
+			font-size:19px
+		}
+		.main_body{
+			width:95%;
+			
+		}
+		
+		.gallery_maincontent{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%
+		}
+		.gallery_content{}
+		.footer{
+			width:100%
+		}
+
+}
+
+
+@media only screen and (max-width: 660px){
+	
+	.gallery_mainmenu{
+		}
+		.gallery_mainmenu ul{}
+		.gallery_mainmenu ul li{
+			border-bottom: 1px solid #dadada;
+			border-left: 1px solid #45b989;
+			border-right: 1px solid #133728;
+			float: left;
+			padding: 3px 0;
+			
+			
+		}
+		#menu a{
+			padding:7px 10px 
+		}
+		
+		.admission_mainmenu{}
+	
+		
+body{
+	position:absolute;
+}
+		.header{
+			width:100%;
+		}
+		img {
+			
+			
+		}
+		.logo_site{
+			width:19%	
+		}
+		#bismillah{
+			height:18px;
+			margin-top:4px
+		}
+		#name{
+			font-size:14px
+		}
+		#logo{
+			height: 49px;
+    margin-left: 0;
+    text-align: center;
+    width: 61px;
+				
+		}
+		#address{
+			font-size:84%;
+		}
+		.header_right{
+			width:80%;
+			font-size:72%
+		}
+		#right_content{
+			margin-right:0%
+		}
+		.main_body{
+			width:95%;
+			
+		}
+	
+		.gallery_maincontent{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%
+		}
+		.gallery_content{}
+		.footer{
+			width:100%
+		}
+	
+}
+@media only screen and (max-width: 360px){
+	
+		.gallery_mainmenu{
+		}
+		.gallery_mainmenu ul{}
+		.gallery_mainmenu ul li{
+			border-bottom: 1px solid #dadada;
+			border-left: 1px solid #45b989;
+			border-right: 1px solid #133728;
+			float: left;
+			padding: 3px 0;
+			
+			
+		}
+		#menu a{
+			padding:7px 10px 
+		}
+		
+		.admission_mainmenu{}
+		
+		#marquee{
+			display:none
+		}
+		
+		
+body{
+	position:absolute;
+}
+		.header{
+			width:100%;
+		}
+		img {
+			
+			
+		}
+		.logo_site{
+			width:19%	
+		}
+		#bismillah{
+			height:18px;
+			margin-top:4px
+		}
+		#name{
+			font-size:14px
+		}
+		#logo{
+			height: 49px;
+    margin-left: 0;
+    text-align: center;
+    width: 61px;
+				
+		}
+		#address{
+			font-size:84%;
+		}
+		.header_right{
+			width:80%;
+			font-size:72%
+		}
+		#right_content{
+			margin-right:0%
+		}
+		.main_body{
+			width:95%;
+			
+		}
+		
+		.gallery_maincontent{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%
+		}
+		.gallery_content{}
+		.footer{
+			width:100%
+		}
+}
+
+
+
+
+@media only screen and (max-width: 320px) {
+		
+		
+		.gallery_mainmenu{
+		}
+		.gallery_mainmenu ul{}
+		.gallery_mainmenu ul li{
+			border-bottom: 1px solid #dadada;
+			border-left: 1px solid #45b989;
+			border-right: 1px solid #133728;
+			float: left;
+			padding: 3px 0;
+			
+			
+		}
+		#menu a{
+			padding:7px 10px 
+		}
+		
+		.admission_mainmenu{}
+		
+		
+body{
+	position:absolute;
+}
+		.header{
+			width:100%;
+		}
+		img {
+			
+			
+		}
+		.logo_site{
+			width:15%	
+		}
+		#bismillah{
+			height:18px;
+			margin-top:4px
+		}
+		#name{
+			font-size:14px
+		}
+		#logo{
+			height: 46px;
+			margin-left: 0;
+			width: 47px;
+				
+		}
+		#address{
+			font-size:84%;
+		}
+		.header_right{
+			width:80%;
+			font-size:72%
+		}
+		#right_content{
+			margin-right:0%
+		}
+		.main_body{
+			width:95%;
+			
+		}
+		
+		.gallery_maincontent{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%
+		}
+		.gallery_content{}
+		.footer{
+			width:100%
+		}
+		
+}

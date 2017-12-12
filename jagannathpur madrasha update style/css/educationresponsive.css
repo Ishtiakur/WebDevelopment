@@ -1,0 +1,165 @@
+		/* responsive css maximum size 960px*/
+		
+		
+	
+	
+	
+	
+	
+		/* responsive css maximum size 768px*/
+		
+	
+@media only screen and (max-width: 768px) {
+			.header{
+			width:100%;
+			
+		}
+	
+		.logo_site{
+			width:12%	
+		}
+		
+		.header_right{
+			width:80%;
+			font-size:72%
+		}
+		#bismillah{
+			height:32px;
+			margin-top:4px
+		}
+		#name{
+			font-size:19px
+		}
+		#logo{
+			height: 79px;
+			margin-left: 0;
+			width:93px;
+				
+		}
+		#address{
+			font-size:84%;
+		}
+		
+		#right_content{
+			margin-right:0%;
+			font-size:21px;
+		}
+		
+		
+		.edu_main_body{
+			width:95%;
+			
+		}
+		
+		
+		.edu_mainmenu{}
+		
+		.edu_mainmenu ul{}
+		
+		.edu_mainmenu ul li{
+			border-bottom: 1px solid #dadada;
+			border-left: 1px solid #45b989;
+			border-right: 1px solid #133728;
+			float: left;
+			padding: 3px 0;
+			
+			
+		}
+		#edu_menu a{
+			padding:7px 10px 
+		}
+		
+		
+
+		
+		.admission_maincontent{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%
+		}
+		.education_content{}
+		.footer{
+			width:100%
+		}
+
+		
+}	
+
+
+@media only screen and (min-width: 320px) {
+		
+		.header{
+			width:100%;
+		}
+	
+		.logo_site{
+			width:15%	
+		}
+		
+		.header_right{
+			width:80%;
+			font-size:72%
+		}
+		#bismillah{
+			height:18px;
+			margin-top:4px
+		}
+		#name{
+			font-size:14px
+		}
+		#logo{
+			height: 46px;
+			margin-left: 0;
+			width: 47px;
+				
+		}
+		#address{
+			font-size:84%;
+		}
+		
+		#right_content{
+			margin-right:0%
+		}
+		
+		
+		.edu_main_body{
+			width:95%;
+			
+		}
+		
+		
+		.edu_mainmenu{}
+		
+		.edu_mainmenu ul{}
+		
+		.edu_mainmenu ul li{
+			border-bottom: 1px solid #dadada;
+			border-left: 1px solid #45b989;
+			border-right: 1px solid #133728;
+			float: left;
+			padding: 3px 0;
+			
+			
+		}
+		.edu_maimenu ul li a{
+			font-size:14px
+		}
+		#edu_menu a{
+			padding:4px 9px 
+		}
+		
+		
+
+		
+		.admission_maincontent{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%
+		}
+		.education_content{}
+		.footer{
+			width:100%
+		}
+
+}
+

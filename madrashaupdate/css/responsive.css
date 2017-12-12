@@ -1,0 +1,564 @@
+
+/* responsive css  maximum width 960px */
+
+
+body{
+	position:absolute;
+}
+		.header{
+			width:100%;	
+		}
+		img {
+			width:auto
+		}
+		.logo_site{
+			width:22%	
+		}
+		#logo{
+			margin-left:44%;
+			font-size:144%;
+		}	
+		.header_right{
+			width:78%
+		}
+		
+		.main_body{
+			width:90%;
+			
+		}
+		.menu-trigger{
+			display:none;
+		}
+		.mainmenu{
+			width:100%;
+			
+			
+		}
+		.mainmenu ul li {
+			display:inline-block;
+			border-bottom:1px solid #bababa;
+			padding:5px
+		}
+		.sidebar{
+			display:none
+		}
+		.content{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%
+		}
+		.footer{
+			width:100%
+		}
+		
+@media only screen and (min-width: 760px) {
+		
+		
+body{
+	position:absolute;
+}
+		.header{
+			width:100%;	
+		}
+		img {
+			width:auto
+		}
+		.logo_site{
+			width:22%	
+		}
+		#logo{
+			margin-left:20%;
+			font-size:144%;
+		}	
+		.header_right{
+			width:78%
+		}
+		
+		.main_body{
+			width:90%;
+			
+		}
+		.menu-trigger{
+			display:none;
+		}
+		.mainmenu{
+			width:100%;
+			
+			
+		}
+		.mainmenu ul li {
+			display:inline-block;
+			border-bottom:1px solid #bababa;
+			padding:5px
+		}
+		.sidebar{
+			display:none
+		}
+		.content{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%
+		}
+		.footer{
+			width:100%
+		}
+			#leftside{
+			  float: none;
+			font-size: 16px;
+			line-height: 30px;
+			margin-left: 24px;
+			padding: 5px;
+			text-align: center;
+		}
+		#leftleft{
+			float: none;
+			font-size: 17px;
+			text-align: center;
+	}
+		#logofooter{
+		float: none;
+		margin-left: 0;
+		margin-top: 20px;
+		padding: 0;
+		}
+		.logofooter{
+			  height: 129px;
+				margin-left: -7%;
+				margin-top: 0;
+		}
+		#rightside{
+			   float: none;
+    font-size: 15px;
+    line-height: 26px;
+    margin-top: -4px;
+		}
+		.developer{
+			text-align: center;
+			font-size:17px
+		}
+
+}
+
+
+
+
+	
+		
+/* responsive css  maximum width 768px */
+
+@media only screen and (max-width: 768px) {
+		
+		
+body{
+	position:absolute;
+}
+		.header{
+			width:100%;
+			
+		}
+		img {
+			width:auto
+		}
+		.logo_site{
+			width:20%	
+		}
+		#logo{
+			margin-left:0%;
+			height:73px;
+			width:72px;
+			
+		}	
+		.header_right{
+			width:80%;
+			font-size:110%
+		}
+		#right_content{
+			font-size:80%;
+			margin-right:28%;
+		}
+		.main_body{
+			width:95%;
+			margin-left:1px
+		}
+		.menu-trigger{
+			display:none;
+		}
+		.mainmenu{
+			width:100%;
+			
+			
+		}
+		.mainmenu ul li {
+			
+			border-bottom:1px solid #bababa;
+			padding:4px
+		}
+		.sidebar{
+			display:none
+		}
+		.content{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%
+		}
+		.footer{
+			width:95%
+		}
+			#leftside{
+			  float: none;
+			font-size: 16px;
+			line-height: 30px;
+			margin-left: 24px;
+			padding: 5px;
+			text-align: center;
+		}
+		#leftleft{
+			float: none;
+			font-size: 17px;
+			text-align: center;
+	}
+		#logofooter{
+		float: none;
+		margin-left: 0;
+		margin-top: 20px;
+		padding: 0;
+		}
+		.logofooter{
+			  height: 129px;
+				margin-left: -7%;
+				margin-top: 0;
+		}
+		#rightside{
+			   float: none;
+    font-size: 15px;
+    line-height: 26px;
+    margin-top: -4px;
+		}
+		.developer{
+			text-align: center;
+			font-size:17px
+		}
+		
+}	
+
+
+
+@media only screen and (max-width: 660px) {
+	
+		
+		
+		.mainmenu{
+			margin-top:-86px
+		}
+		#marquee{
+			display:none
+		}
+		
+		
+body{
+	position:absolute;
+}
+		.header{
+			width:100%;
+		}
+		img {
+			width:auto
+		}
+		.logo_site{
+			width:20%	
+		}
+		#bismillah{
+			height:18px;
+			margin-top:4px
+		}
+		#name{
+			font-size:14px
+		}
+		#logo{
+			width:108%;
+			height:97%;
+		
+		}
+		#address{
+			font-size:146%;
+		}
+		#phone{
+			font-size:131%;
+		}
+		.header_right{
+			width:80%;
+			font-size:72%
+		}
+		#right_content{
+			margin-right:0%
+		}
+		.main_body{
+			width:95%;
+			
+		}
+		.slider{
+			margin-bottom:11px
+		}
+		
+		
+		
+		
+		.sidebar{
+			display:none
+		}
+		.content{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%
+		}
+		.footer{
+			width:100%
+		}
+		#leftside{
+			  float: none;
+			font-size: 16px;
+			line-height: 30px;
+			margin-left: 24px;
+			padding: 5px;
+			text-align: center;
+		}
+		#leftleft{
+			float: none;
+			font-size: 14px;
+			text-align: center;
+		}
+		#logofooter{
+		float: none;
+		margin-left: 0;
+		margin-top: 20px;
+		padding: 0;
+		}
+		.logofooter{
+			  height: 129px;
+				margin-left: -7%;
+				margin-top: 0;
+		}
+		#rightside{
+			   float: none;
+    font-size: 15px;
+    line-height: 26px;
+    margin-top: -4px;
+		}
+		.developer{
+			text-align: center;
+			font-size:15px
+		}
+
+
+
+}
+
+
+@media only screen and (max-width: 320px) {
+		
+		
+		.mainmenu{
+		}
+		
+		#marquee{
+			display:none
+		}
+		
+		
+body{
+	position:absolute;
+}
+		.header{
+			width:100%;
+		}
+		img {
+			width:auto
+		}
+		.logo_site{
+			width:20%	
+		}
+		#bismillah{
+			height:18px;
+			margin-top:4px
+		}
+		#name{
+			font-size:14px
+		}
+		#logo{
+			width:108%;
+			height:97%;
+		
+		}
+		#address{
+			font-size:84%;
+		}
+		.header_right{
+			width:80%;
+			font-size:72%
+		}
+		#right_content{
+			margin-right:0%
+		}
+		.main_body{
+			width:95%;
+			
+		}
+		.slider{
+			margin-bottom:11px
+		}
+		
+		
+		
+		
+		.sidebar{
+			display:none
+		}
+		.content{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%
+		}
+		.footer{
+			width:100%
+		}
+		#leftside{
+			float: none;
+    font-size: 14px;
+    line-height: 26px;
+    margin-left: 6px;
+		}
+		#leftleft{
+			float: none;
+			font-size: 14px;
+			text-align: center;
+		}
+		#logofooter{
+			float:none;
+			margin-left: 0px;
+			margin-top: 20px;
+			padding: 0px;
+		}
+		.logofooter{
+			height: 134px;
+    
+			margin-top: 15px;
+		}
+		#rightside{
+			   float: none;
+    font-size: 15px;
+    line-height: 26px;
+    margin-top: -4px;
+		}
+		.developer{
+			text-align: center;
+			font-size:15px
+		}
+		
+}
+
+
+
+@media only screen and (max-width: 360px) {
+		
+		.mainmenu{
+			
+		}
+		
+		#marquee{
+			display:none
+		}
+		
+		
+body{
+	position:absolute;
+}
+		.header{
+			width:100%;
+		}
+		img {
+			width:auto
+		}
+		.logo_site{
+			width:20%	
+		}
+		#bismillah{
+			height:18px;
+			margin-top:4px
+		}
+		#name{
+			font-size:14px
+		}
+		#logo{
+			width:108%;
+			height:97%;
+		
+		}
+		#address{
+			font-size:84%;
+		}
+		.header_right{
+			width:80%;
+			font-size:72%
+		}
+		#right_content{
+			margin-right:0%
+		}
+		.main_body{
+			width:95%;
+			
+		}
+		.slider{
+			margin-bottom:11px
+		}
+		
+		
+		
+		
+		.sidebar{
+			display:none
+		}
+		.content{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%
+		}
+		.footer{
+			width:100%;
+			font-size:16px
+		}	
+		
+		#leftside{
+			float: none;
+    font-size: 14px;
+    line-height: 26px;
+    margin-left: 6px;
+		}
+		#leftleft{
+			float: none;
+			font-size: 14px;
+			text-align: center;
+		}
+		#logofooter{
+		float: none;
+		margin-left: 0;
+		margin-top: 20px;
+		padding: 0;
+		}
+		.logofooter{
+			 height: 129px;
+			margin-left: 18%;
+			margin-top: 0;
+		}
+		#rightside{
+			   float: none;
+    font-size: 15px;
+    line-height: 26px;
+    margin-top: -4px;
+		}
+		.developer{
+			text-align: center;
+			font-size:15px
+		}
+
+
+}

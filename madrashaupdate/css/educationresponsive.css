@@ -1,0 +1,214 @@
+		/* responsive css maximum size 960px*/
+		
+		
+	
+	
+	
+	
+	
+		/* responsive css maximum size 768px*/
+		
+	
+@media only screen and (max-width: 768px) {
+			.header{
+			width:100%;
+			
+		}
+	
+		.logo_site{
+			width:12%	
+		}
+		
+		.header_right{
+			width:80%;
+			font-size:72%
+		}
+		#bismillah{
+			height:32px;
+			margin-top:4px
+		}
+		#name{
+			font-size:19px
+		}
+		#logo{
+			height: 79px;
+			margin-left: 0;
+			width:93px;
+				
+		}
+		#address{
+			font-size:84%;
+		}
+		
+		#right_content{
+			margin-right:0%;
+			font-size:21px;
+		}
+		
+		
+		.edu_main_body{
+			width:95%;
+			
+		}
+		
+		
+		.edu_mainmenu{}
+		
+		.edu_mainmenu ul{
+			margin:0;
+			
+		}
+		
+		.edu_mainmenu ul li{
+			border-bottom: 1px solid #dadada;
+			border-left: 1px solid #45b989;
+			border-right: 1px solid #133728;
+			float: left;
+			padding: 3px 0;
+			
+			
+		}
+		#edu_menu a{
+			padding:7px 10px 
+		}
+		
+		
+
+		
+		.admission_maincontent{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%
+		}
+		.education_content{}
+		.footer{
+			width:100%
+		}
+
+		
+}	
+
+
+@media only screen and (min-width: 320px) {
+		
+		.header{
+			width:100%;
+		}
+	
+		.logo_site{
+			width:15%	
+		}
+		
+		.header_right{
+			width:80%;
+			font-size:72%
+		}
+		#bismillah{
+			height:18px;
+			margin-top:4px
+		}
+		#name{
+			font-size:14px
+		}
+		#logo{
+			height: 46px;
+			margin-left: 0;
+			width: 47px;
+				
+		}
+		#address{
+			font-size:84%;
+		}
+		
+		#right_content{
+			margin-right:0%
+		}
+		
+		
+		.edu_main_body{
+			width:95%;
+			
+		}
+		
+		
+		.edu_mainmenu{}
+		
+		.edu_mainmenu ul{margin-left: 0;}
+		
+		.edu_mainmenu ul li{
+			border-bottom: 1px solid #dadada;
+			border-left: 1px solid #45b989;
+			border-right: 1px solid #133728;
+			float: left;
+			padding: 3px 0;
+			
+			
+		}
+		.edu_maimenu ul li a{
+			font-size:14px
+		}
+		#edu_menu a{
+			 font-size: 14px;
+    margin-left: 7px;
+    margin-right: 6px;
+    padding: 1px 0;
+		}
+		
+		
+
+		
+		.admission_maincontent{
+				width:95%;
+				margin-right:2%;
+				margin-left:2%
+		}
+		.education_content{
+			font-size: 14px;
+    line-height: 31px;
+    margin-top: 0;
+    padding: 2px;
+    text-align: justify;
+			
+			
+		}
+		.footer{
+			width:100%
+		}
+		#edu_leftside{
+		float: none;
+		font-size: 14px;
+		line-height: 26px;
+		margin-left: 6px;
+		text-align:center;
+		}
+		#leftleft{
+			float: none;
+			font-size: 14px;
+			text-align: center;
+		}
+		#logofooter{
+			float:none;
+			margin-left: 0px;
+			margin-top: 20px;
+			padding: 0px;
+		}
+		.logofooter{
+			height: 134px;
+    
+			margin-top: 15px;
+		}
+		#edu_rightside{
+			   float: none;
+    font-size: 15px;
+    line-height: 26px;
+    margin-top: -4px;
+		}
+		.developer{
+			font-size: 14px;
+    margin-left: 42px;
+    margin-top: 11px;
+    text-align: center;
+		}
+
+}
+
