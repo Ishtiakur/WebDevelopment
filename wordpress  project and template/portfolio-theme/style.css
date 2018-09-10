@@ -1,0 +1,47 @@
+/*
+Theme Name: portfolio
+Theme URI: 
+Author: Md Ishtiakur Rahman
+Author URI: 
+Description: portfolio brings your site to life with header video and immersive featured images. With a focus on business sites
+Version: 1.0
+License: GNU General Public License v2 or later
+
+Text Domain: portfolio
+Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+
+*/
+
+.menu-menu-1-container{
+    margin-left: auto!important;
+}
+
+#mainNav .menu-menu-container .navbar-nav .menu-item .nav-link.active, #mainNav .menu-menu-container .navbar-nav .menu-item .nav-link:hover{
+    color: #fed136;
+}
+
+.navbar-dark .navbar-nav .menu-item .nav-link{
+    color: #ffffff;
+}
+
+/* adding custom logo size 50 * 50 */
+.navbar-brand .custom-logo-link img{
+    width: 50px;
+    height: 50px;
+}
+
+.portfolio-item img{
+	height: 300px;
+	width: 400px
+}
+
+.clients_image .img-fluid{
+    height: 119px;
+    width: 141px;
+    border-radius: 50%;
+}
+
+.logo-container img {
+    height: 200px;
+    width: 200px;
+}
